@@ -1,0 +1,21 @@
+.SearchTab{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.city-inp{
+    width: 30rem;
+}
+
+.city-btn{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0.5rem 0 1rem 0;
+}
+
+@media(max-width: 430px){
+    .city-inp {
+        width: 350px;
+    }
+}

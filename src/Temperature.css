@@ -1,0 +1,10 @@
+.Temperature {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 430px) {
+  .Temperature {
+    width: 350px;
+  }
+}
