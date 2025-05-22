@@ -11,7 +11,7 @@
 
 ## 🛠️ Tech Stack
 
-- [React]
-- [Vite]
-- [Material UI]
-- [OpenWeatherMap API]
+- React
+- Vite
+- Material UI
+- OpenWeatherMap API
