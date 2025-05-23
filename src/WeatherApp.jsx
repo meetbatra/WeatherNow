@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react'
 import SearchTab from './SearchTab'
 import WeatherInfo from './WeatherInfo'
-import Typography from '@mui/material/Typography';
 
 export default function WeatherApp(){
     let API_URL = 'https://api.openweathermap.org/data/2.5/weather';
